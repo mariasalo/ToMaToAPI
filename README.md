@@ -1,1 +1,5 @@
-viikkoprojekti 2 API
+Academyn toinen viikkoprojekti / Mini project / Academy
+
+Project team: Maria Salo, Katri Nousiainen, Eveliina Järveläinen & Urho Niemelä
+
+API for ToMaTo App.
